@@ -37,3 +37,4 @@ docgen_tmp/
 
 # Ignore puzzle inputs.
 src/input*.txt
+src/test*.txt
